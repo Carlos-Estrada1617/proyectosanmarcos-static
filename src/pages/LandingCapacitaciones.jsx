@@ -7,7 +7,7 @@ const LandingCapacitaciones = () => {
   const items = [
     {
       title: 'Talleres Prácticos',
-      description: 'Aprende haciendo con actividades dinámicas y colaborativas.',
+      description: 'Aprende haciendo con rth actividades dinámicas y colaborativas.',
       iconBg: 'bg-yellow-200',
       icon: '📘',
     },
